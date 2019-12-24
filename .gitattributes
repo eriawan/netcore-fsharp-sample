@@ -1,1 +1,2 @@
-*.* linguist-language=fsharp
+*.cshtml linguist-language=fsharp
+*.css linguist-language=fsharp
