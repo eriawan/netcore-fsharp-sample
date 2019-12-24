@@ -1,2 +1,1 @@
-*.js linguist-detectable=false
-*.css linguist-detectable=false
+*.* linguist-language=fsharp
